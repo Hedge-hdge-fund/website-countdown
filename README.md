@@ -1,2 +1,3 @@
-# website-countdown
-The UI for our countdown to ICO announcement on our website hdge.fund.
+# Hedge ICO Countdown
+
+This repository houses a jQuery plugin tailored for crafting countdown timers specifically for Hedge's Initial Coin Offering (ICO), alongside enhancements for Hedge's tokens: HDGE, BXWD, and NPF. The plugin empowers users to establish a target date and time, dynamically updating the countdown display until the ICO launch.
