@@ -4,3 +4,5 @@ This repository houses a jQuery plugin tailored for crafting countdown timers sp
 
 ## Credits
 This plugin leverages jQuery and various CSS styles for layout and appearance. Credits to the respective authors of these resources from CodePen.io.
+
+
